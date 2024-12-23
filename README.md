@@ -89,14 +89,11 @@ This tool addresses challenges faced by job seekers in creating impactful resume
 
 ### 🧑‍💻 User Interface:  
 - **Resume Upload Screen**:  
-  ![📂 Resume Upload Screen](link_to_image)  
-
-- **Analysis Results**:  
-  ![📊 Analysis Results](link_to_image)  
+  ![📂 Resume Upload Screen](https://github.com/Aashay30/resume_analyser/blob/main/sc1.png)  
 
 ### 🛠️ Admin Dashboard:  
 - **Dashboard Overview**:  
-  ![📈 Admin Dashboard](link_to_image)  
+  ![📈 Admin Dashboard](https://github.com/Aashay30/resume_analyser/blob/main/sc2.png)  
 
 ## 💡 Evaluation  
 
